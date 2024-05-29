@@ -1,4 +1,4 @@
-<img alt='my banner' src='https://github.com/ViVolf/ViVolf/assets/57603649/5ea9efc5-a1ce-47ba-be78-d848e771899e'>
+<picture><img  alt='my banner' src='https://github.com/ViVolf/ViVolf/assets/57603649/5ea9efc5-a1ce-47ba-be78-d848e771899e'></picture>
 
 <h3 align='center'>⛩ Hey there 👋 ⛩</h3>
 
@@ -16,6 +16,7 @@
 <div>
   <img width='60' align='left' alt='hiragunner banner' src='https://github.com/ViVolf/ViVolf/assets/57603649/45c5bc88-b7c9-4cd8-8695-f66e6ea53fb0'></img>
   <h3><strong>1. Hiragunner - Web app for training Japanese kana (my first project)</strong></h3>
+  <p></p>
 </div>
 
 ___
@@ -26,5 +27,6 @@ ___
 
 [![]()]()
 
-## Contacts me:
-
+## Contact me:
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vivolfi)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](grid.aleksei@gmail.com)
