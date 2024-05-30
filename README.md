@@ -14,7 +14,7 @@
 
 ## My Pets:
 <div>
-  <img width='60' align='left' alt='hiragunner banner' src='https://github.com/ViVolf/ViVolf/assets/57603649/45c5bc88-b7c9-4cd8-8695-f66e6ea53fb0'></img>
+  <picture><img width='60' align='left' alt='hiragunner banner' src='https://github.com/ViVolf/ViVolf/assets/57603649/45c5bc88-b7c9-4cd8-8695-f66e6ea53fb0'></img></picture>
   <h3><strong>1. Hiragunner - Web app for training Japanese kana (my first project)</strong></h3>
   <ul>
     <li><strong>Source: </strong><a href='https://github.com/ViVolf/hiragunner'>hiragunner</a></li>
@@ -26,7 +26,7 @@
 
 ___
 <div>
-  <img width='60' align='left' alt='artport banner' src='https://github.com/ViVolf/ViVolf/assets/57603649/444f2e19-d303-4e2d-86d4-710e3455f507'></img>
+   <picture><img width='60' align='left' alt='artport banner' src='https://github.com/ViVolf/ViVolf/assets/57603649/444f2e19-d303-4e2d-86d4-710e3455f507'></img></picture>
   <h3><strong>2. ArtPort - Front page of online art supplies store</strong></h3>
   <ul>
     <li><strong>Source: </strong>under construction...</li>
