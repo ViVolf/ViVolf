@@ -19,9 +19,16 @@
   <ul>
     <li><strong>Source: </strong><a href='https://github.com/ViVolf/hiragunner'>hiragunner</a></li>
     <li><strong>DEMO: </strong> under construction...</li>
-    <br>
-    <li><strong>Techs used: </strong>React, Redux</li>
   </ul>
+  <p>
+    <strong>Techs used: </strong>React, Redux
+    <br>
+    <strong>Description: </strong>A set of mini-games for repetition and memorization of the Japanese syllabary alphabet - Hiragana and Katakana
+  </p>
+  <details>
+    <summary>Screenshot</summary>
+    <picture><img width='800' alt='hiragunner screenshot' src='https://github.com/ViVolf/ViVolf/assets/57603649/db6586c6-8869-4f1d-a960-7018fcb11fa7'></img></picture>
+  </details>
 </div>
 
 ___
@@ -31,9 +38,16 @@ ___
   <ul>
     <li><strong>Source: </strong>under construction...</li>
     <li><strong>DEMO: </strong>under construction...</li>
-    <br>
-    <li><strong>Techs used: </strong>React + Vite</li>
   </ul>
+  <p>
+    <strong>Techs used: </strong>React + Vite
+    <br>
+    <strong>Description: </strong>Home page of a fictional online art store
+  </p>
+  <details>
+    <summary>Screenshot</summary>
+    <picture><img width='800' alt='artport screenshot' src='https://github.com/ViVolf/ViVolf/assets/57603649/efe9c5e3-c983-421d-8cb4-2d80f1acf9c7'></img></picture>
+  </details>
 </div>
 
 [![]()]()
