@@ -17,8 +17,8 @@
   <picture><img width='60' align='left' alt='hiragunner banner' src='https://github.com/ViVolf/ViVolf/assets/57603649/45c5bc88-b7c9-4cd8-8695-f66e6ea53fb0'></img></picture>
   <h3><strong>1. Hiragunner - Web app for training Japanese kana (my first project)</strong></h3>
   <ul>
-    <li><strong>Source: </strong><a href='https://github.com/ViVolf/hiragunner'>hiragunner</a></li>
-    <li><strong>DEMO: </strong> under construction...</li>
+    <li><strong>Source: </strong><a href='https://github.com/ViVolf/hiragunner'>repository</a></li>
+    <li><strong>DEMO: </strong><a href='https://vivolf.github.io/hiragunner/'>hiragunner</a></li>
   </ul>
   <p>
     <strong>Techs used: </strong>React, Redux
