@@ -33,8 +33,27 @@
 
 ___
 <div>
+   <picture><img width='60' align='left' alt='TestLabInternet banner' src='https://github.com/user-attachments/assets/fa79c49b-429d-4e80-8155-fc12ae5010a2'></img></picture>
+  <h3><strong>2. Test task for InternetLab - Front web page</strong></h3>
+  <ul>
+    <li><strong>Source: </strong><a href='https://github.com/ViVolf/TestLabInternet'>repository</a></li>
+    <li><strong>DEMO: </strong><a href='https://vivolf.github.io/TestLabInternet/'>check me</a></li>
+  </ul>
+  <p>
+    <strong>Techs used: </strong>React + Webpack, SCSS, SwiperJS
+    <br>
+    <strong>Description: </strong>Test task for a web developer position
+  </p>
+  <details>
+    <summary>Screenshot</summary>
+    <picture><img width='800' alt='TestLabInternet screenshot' src='https://github.com/user-attachments/assets/84ef9e92-ac2c-4f89-8fbc-31e083b65ea5'></img></picture>
+  </details>
+</div>
+
+___
+<div>
    <picture><img width='60' align='left' alt='artport banner' src='https://github.com/ViVolf/ViVolf/assets/57603649/444f2e19-d303-4e2d-86d4-710e3455f507'></img></picture>
-  <h3><strong>2. ArtPort - Front page of online art supplies store</strong></h3>
+  <h3><strong>3. ArtPort - Front page of online art supplies store</strong></h3>
   <ul>
     <li><strong>Source: </strong><a href='https://github.com/ViVolf/art-port'>repository</a></li>
     <li><strong>DEMO: </strong>under construction...</li>
@@ -50,24 +69,6 @@ ___
   </details>
 </div>
 
-___
-<div>
-   <picture><img width='60' align='left' alt='TestLabInternet banner' src='https://github.com/user-attachments/assets/fa79c49b-429d-4e80-8155-fc12ae5010a2'></img></picture>
-  <h3><strong>3. Test task for InternetLab - Front web page</strong></h3>
-  <ul>
-    <li><strong>Source: </strong><a href='https://github.com/ViVolf/TestLabInternet'>repository</a></li>
-    <li><strong>DEMO: </strong><a href='https://vivolf.github.io/TestLabInternet/'>check me</a></li>
-  </ul>
-  <p>
-    <strong>Techs used: </strong>React + Webpack, SCSS, SwiperJS
-    <br>
-    <strong>Description: </strong>Test task for a web developer position
-  </p>
-  <details>
-    <summary>Screenshot</summary>
-    <picture><img width='800' alt='TestLabInternet screenshot' src='https://github.com/user-attachments/assets/84ef9e92-ac2c-4f89-8fbc-31e083b65ea5'></img></picture>
-  </details>
-</div>
 
 [![]()]()
 
