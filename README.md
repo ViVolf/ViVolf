@@ -18,7 +18,7 @@
   <h3><strong>1. Hiragunner - Web app for training Japanese kana (my first project)</strong></h3>
   <ul>
     <li><strong>Source: </strong><a href='https://github.com/ViVolf/hiragunner'>repository</a></li>
-    <li><strong>DEMO: </strong><a href='https://vivolf.github.io/hiragunner/'>hiragunner</a></li>
+    <li><strong>DEMO: </strong><a href='https://vivolf.github.io/hiragunner/'>check me</a></li>
   </ul>
   <p>
     <strong>Techs used: </strong>React, Redux
