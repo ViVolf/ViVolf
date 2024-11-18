@@ -2,7 +2,7 @@
 
 <h3 align='center'>⛩ Hey there 👋 ⛩</h3>
 
-<h3 align='center'>My name is Aleksei, I'm a <sub>beginner</sub> React developer</h3>
+<h3 align='center'>My name is Aleksei, I'm a React developer</h3>
 
 <br>
 
