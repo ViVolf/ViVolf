@@ -43,6 +43,8 @@ ___
     <strong>Techs used: </strong>React + Webpack, SCSS, SwiperJS
     <br>
     <strong>Description: </strong>Test task for a web developer position
+    <br>
+    <strong>Time taken: </strong>4 days
   </p>
   <details>
     <summary>Screenshot</summary>
@@ -52,8 +54,29 @@ ___
 
 ___
 <div>
+   <picture><img width='60' align='left' alt='TravelAsk banner' src='https://github.com/user-attachments/assets/4fb458c9-da9a-46a3-9c1f-65d3feca9d7f'></img></picture>
+  <h3><strong>3. Test task for Rocket Science - TravelAsk</strong></h3>
+  <ul>
+    <li><strong>Source: </strong><a href='https://github.com/ViVolf/TravelAsk'>repository</a></li>
+    <li><strong>DEMO: </strong><a href='https://vivolf.github.io/TravelAsk/'>check me</a></li>
+  </ul>
+  <p>
+    <strong>Techs used: </strong>React + Webpack, SCSS, SwiperJS
+    <br>
+    <strong>Description: </strong>Test task for a web developer position
+    <br>
+    <strong>Time taken: </strong>2 days
+  </p>
+  <details>
+    <summary>Screenshot</summary>
+    <picture><img width='800' alt='TravelAsk screenshot' src='https://github.com/user-attachments/assets/33ceeb4f-bd33-4650-a008-1f822b6be03b'></img></picture>
+  </details>
+</div>
+
+___
+<div>
    <picture><img width='60' align='left' alt='artport banner' src='https://github.com/ViVolf/ViVolf/assets/57603649/444f2e19-d303-4e2d-86d4-710e3455f507'></img></picture>
-  <h3><strong>3. ArtPort - Front page of online art supplies store</strong></h3>
+  <h3><strong>4. ArtPort - Front page of online art supplies store</strong></h3>
   <ul>
     <li><strong>Source: </strong><a href='https://github.com/ViVolf/art-port'>repository</a></li>
     <li><strong>DEMO: </strong>under construction...</li>
